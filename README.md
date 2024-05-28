@@ -11,9 +11,9 @@ f. Driver-Specific Functionality
 # Framework used
 React native (expo)
 # Backend
-firebase
-postman for running tests
-Mongo DB 
+a. firebase
+b. postman for running tests
+c. Mongo DB 
 # Diffficulties 
 after succeffully creating a post request on postman for a new restaurant,
 the get request was not retrieving the details of the same restaurant.
